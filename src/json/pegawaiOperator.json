@@ -1,0 +1,35 @@
+[
+  {
+    "id" : "OP0001",
+    "nama" : "Tjong A Fie",
+    "status" : "true",
+    "nik" :"1281022512980001",
+    "alamat" : "Jl. Petisah Ujung No. 73 Medan, Medan Timur, 20231, Sumatera Utara, Indonesia",
+    "phone_number" : "08128798000",
+    "profil" : "https://raw.githubusercontent.com/ArjunAtlast/Profile-Card/master/assets/john-doe.png",
+    "ktp" : "https://images.bisnis-cdn.com/posts/2019/02/27/894082/e-ktp-guohui-chen.jpg",
+    "dokumen" : "https://asset.kompas.com/crops/ySu011xka_dBVfQvtNU6B6YkQHE=/0x0:825x550/750x500/data/photo/2018/11/16/2000253470.jpg"
+  },
+  {
+    "id" : "OP0002",
+    "nama" : "Tjong A Fie",
+    "status" : "true",
+    "nik" :"1281022512980001",
+    "alamat" : "Jl. Petisah Ujung No. 73 Medan, Medan Timur, 20231, Sumatera Utara, Indonesia",
+    "phone_number" : "08128798000",
+    "profil" : "https://raw.githubusercontent.com/ArjunAtlast/Profile-Card/master/assets/john-doe.png",
+    "ktp" : "https://images.bisnis-cdn.com/posts/2019/02/27/894082/e-ktp-guohui-chen.jpg",
+    "dokumen" : "https://asset.kompas.com/crops/ySu011xka_dBVfQvtNU6B6YkQHE=/0x0:825x550/750x500/data/photo/2018/11/16/2000253470.jpg"
+  },
+  {
+    "id" : "OP0002",
+    "nama" : "Tjong A Fie",
+    "status" : "false",
+    "nik" :"1281022512980001",
+    "alamat" : "Jl. Petisah Ujung No. 73 Medan, Medan Timur, 20231, Sumatera Utara, Indonesia",
+    "phone_number" : "08128798000",
+    "profil" : "https://raw.githubusercontent.com/ArjunAtlast/Profile-Card/master/assets/john-doe.png",
+    "ktp" : "https://images.bisnis-cdn.com/posts/2019/02/27/894082/e-ktp-guohui-chen.jpg",
+    "dokumen" : "https://asset.kompas.com/crops/ySu011xka_dBVfQvtNU6B6YkQHE=/0x0:825x550/750x500/data/photo/2018/11/16/2000253470.jpg"
+  }
+]

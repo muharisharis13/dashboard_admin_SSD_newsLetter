@@ -1,0 +1,20 @@
+[
+  {
+    "from" : "anwar@gamil.com",
+    "subject" : "Aplikasi Lambar",
+    "message" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quo autem cumque, perspiciatis sapiente error! Provident qui quas tempora ducimus!",
+    "read" : true
+  },
+  {
+    "from" : "anwar2@gamil.com",
+    "subject" : "Aplikasi Lambar",
+    "message" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quo autem cumque, perspiciatis sapiente error! Provident qui quas tempora ducimus!",
+    "read" : false
+  },
+  {
+    "from" : "anwar3@gamil.com",
+    "subject" : "Aplikasi Lambar",
+    "message" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quo autem cumque, perspiciatis sapiente error! Provident qui quas tempora Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ipsam tenetur nemo explicabo praesentium est recusandae provident excepturi ducimus dignissimos iusto, illo, esse nihil architecto doloribus minima nam mollitia eveniet facilis commodi repellendus doloremque? Et assumenda beatae rem, ducimus quasi odit, nobis explicabo eum dicta pariatur iure nostrum libero veniam?",
+    "read" : true
+  }
+]

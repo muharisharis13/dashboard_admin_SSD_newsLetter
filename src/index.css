@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400;1,700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  padding: 0;
+  
+  min-height: 100vh;
+  transition: 0.5s;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.form-control{
+ box-shadow: none  !important;
+ border-radius: 0px;
+}
+
+
+/* width */
+*::-webkit-scrollbar {
+  width: 10px;
+  
+  transition: 900ms;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+*{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+
+.header {
+  padding-bottom: 80px;
+}
+.header.active{
+  padding-bottom: 80px;
+  display: none;
+}
+
+
